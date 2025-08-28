@@ -42,7 +42,7 @@ This repository contains my solutions, notes, and code implementations for algor
 
 - **Kuldeep Singh**
   - [GitHub: thekuldeepsingh](https://github.com/thekuldeepsingh)
-  - [YouTube Channel](https://www.youtube.com/@thekuldeepsingh)
+  - [YouTube Channel](https://www.youtube.com/@KuldeepSinghAlgo)
   - [100 Days of Hell With Python Algotrading Playlist](https://youtube.com/playlist?list=PLUTKklmYVO37Ik8K1Ftdp4ULk3dMBCKYp&si=49NKjj7Mj4KOxDeO)
 
 ## License
